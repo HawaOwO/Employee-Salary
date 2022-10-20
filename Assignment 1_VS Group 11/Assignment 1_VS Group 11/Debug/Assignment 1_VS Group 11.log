@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\LENOVO\Downloads\source\repos\Assignment 1_VS Group 11\Assignment 1_VS Group 11\main.cpp(75,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Downloads\source\repos\Assignment 1_VS Group 11\Assignment 1_VS Group 11\main.cpp(99,31): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\LENOVO\Downloads\source\repos\Assignment 1_VS Group 11\Assignment 1_VS Group 11\main.cpp(101,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  Assignment 1_VS Group 11.vcxproj -> C:\Users\LENOVO\Downloads\source\repos\Assignment 1_VS Group 11\Debug\Assignment 1_VS Group 11.exe
